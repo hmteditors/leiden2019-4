@@ -87,6 +87,28 @@
                           <p>ὀυκ ἐυπορῶν ἀπολογίας, ὡς ὑβρισμένος μὲν ἀγανακτεῖ~ πρὸς δὲ τὰ κατηγορηθέντα ἀποκρίνεται~ καὶ τὴν ἀιτίαν ψεύδεται, ἐις τὸν δία τὸ ὅλον ἀναφέρων⁑</p>
                       </div>
                   </div>
+                  <div n="msB_231r_1" type="scholion">
+                      <div n="lemma">
+                          <p><num value="7"></num></p>
+                      </div>
+                      <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001.msB:17.1@Ἀτρέος</p>
+                      </div>
+                      <div n="comment">
+                          <p>τὸ ἑξῆς οὕτως~ ἤτινα καὶ μεμαῶτα ἀμυμέμεναι, σχήσω τῆς ἀλκῆς⁑</p>
+                      </div>
+                  </div>
+                  <div n="msB_231r_1" type="scholion">
+                      <div n="lemma">
+                          <p><num value="8"></num></p>
+                      </div>
+                      <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001.msB:17.1@Ἀτρέος</p>
+                      </div>
+                      <div n="comment">
+                          <p>προσεδόκησεν ἄν τις ἀυτὸν δυσωπηθέντα τοῖς λόγοις ὡς καὶ ἀυτὸς ἐπηγγείλατο, κινηθῆναι ἐπὶ τῷ πράγματι~ ⁑</p>
+                      </div>
+                  </div>
                   </body>
             </text>
         </group>
